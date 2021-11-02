@@ -113,4 +113,3 @@
 				alt="k-mazats"
 			/>
 		</p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-mazats&theme=dark" alt="k-mazats" /></p> 
