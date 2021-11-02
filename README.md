@@ -108,7 +108,7 @@
 				src="https://github-readme-stats.vercel.app/api?username=k-mazats&show_icons=true&theme=github_dark&locale=en"
 				alt="k-mazats"
 			/>
-		</p>
+		</p>  
 		<p align="left"><img
 				align="left"
 				src="https://github-readme-stats.vercel.app/api/top-langs?username=k-mazats&show_icons=true&theme=github_dark&locale=en&layout=compact"
