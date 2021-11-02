@@ -102,14 +102,15 @@
 			</a>
 		</p>
 		<h3 align="left">A few Github stats:</h3>
-		<p align="center">
+		<p align="left">
 			<img
 				align="left"
 				src="https://github-readme-stats.vercel.app/api?username=k-mazats&show_icons=true&theme=github_dark&locale=en"
 				alt="k-mazats"
-			/><img
-				align="right"
-				src="https://github-readme-stats.vercel.app/api/top-langs?username=k-mazats&show_icons=true&theme=github_dark&locale=en&layout=compact"
-				alt="k-mazats"
 			/>
 		</p>
+		<p align="left"><img
+				align="left"
+				src="https://github-readme-stats.vercel.app/api/top-langs?username=k-mazats&show_icons=true&theme=github_dark&locale=en&layout=compact"
+				alt="k-mazats"
+			/></p>
